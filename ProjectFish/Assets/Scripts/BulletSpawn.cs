@@ -22,6 +22,7 @@ public class BulletSpawn : MonoBehaviour {
 
             GameObject newBullet = (GameObject)Instantiate(bullet, spawnPosition, Quaternion.Euler(spawnRotation));
             newBullet.transform.parent = transform;
+
             Rigidbody bulletRigidBody = newBullet.AddComponent<Rigidbody>();
             bulletRigidBody.velocity = transform.TransformDirection(Vector3.up * bulletSpeed);
 
