@@ -26,10 +26,8 @@ public class Trailpool : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        ActivateParticle();
-        ActivateParticle();
-        ActivateParticle();
-        ActivateParticle();
+
+        MultipleParticleActivate(4);
 
         transform.position = transform.parent.position;
     
@@ -49,30 +47,37 @@ public class Trailpool : MonoBehaviour {
             trail[i].SetActiveRecursively(false);
             rend = trail[i].GetComponent<Renderer>();
             rend.material = GenerateMaterial();
-            
-         
 
         }
 
-     }
+    }
 
+    private void MultipleParticleActivate(int numMade)
+    {
 
+        while(numMade > 0)
+        {
+            ActivateParticle();
+            numMade--;
+        }
+
+    }
 
     private void ActivateParticle()
     {
 
-        for(int i = 0; i < numOfParticles; i++)
-        {
-            if (trail[i].active == false) 
+            for (int i = 0; i < numOfParticles; i++)
             {
-                trail[i].SetActiveRecursively(true);
+                if (trail[i].active == false)
+                {
+                    trail[i].SetActiveRecursively(true);
 
-                trail[i].GetComponent<Trail>().Activate();
-                return;
+                    trail[i].GetComponent<Trail>().Activate();
+                    return;
+                }
+
+
             }
-
-
-        }
 
     }
 

@@ -19,8 +19,7 @@ public class Trail : MonoBehaviour {
 
         CountDown();
         Move();
-
-
+    
 	}
 
     public void Activate ()
@@ -50,6 +49,7 @@ public class Trail : MonoBehaviour {
 
     private void Move()
     {
+
         Vector3 velocity = speed * Time.deltaTime * Vector3.back;
         transform.Translate(velocity);
     }

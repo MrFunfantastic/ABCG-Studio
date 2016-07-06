@@ -22,4 +22,11 @@ public class TrailerController : MonoBehaviour {
         transform.Translate(velocityX, 0, velocityZ);
 
     }
+
+    public void checkVelocity()
+    {
+
+
+
+    }
 }
