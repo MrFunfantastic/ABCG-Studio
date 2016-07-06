@@ -25,13 +25,9 @@ public class Trail : MonoBehaviour {
     public void Activate ()
     {
 
-        
-
         spawnPosition();
         timeToDie = Time.time + life - (coneEffectMultiplier * Mathf.Abs(transform.parent.position.x - transform.position.x));
         print(timeToDie);
-
-
 
     }
 
