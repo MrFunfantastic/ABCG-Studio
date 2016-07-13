@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 71508f522ef8b7c42a0e1ee5e129e9a9
+timeCreated: 1468272258
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES-Megaman_0
+    21300002: NES-Megaman_1
+    21300004: NES-Megaman_2
+    21300006: NES-Megaman_3
+    21300008: NES-Megaman_4
+    21300010: NES-Megaman_5
+    21300012: NES-Megaman_6
+    21300014: NES-Megaman_7
+    21300016: NES-Megaman_8
+    21300018: NES-Megaman_9
+    21300020: NES-Megaman_10
+    21300022: NES-Megaman_11
+    21300024: NES-Megaman_12
+    21300026: NES-Megaman_13
+    21300028: NES-Megaman_14
+    21300030: NES-Megaman_15
+    21300032: NES-Megaman_16
+    21300034: NES-Megaman_17
+    21300036: NES-Megaman_18
+    21300038: NES-Megaman_19
+    21300040: NES-Megaman_20
+    21300042: NES-Megaman_21
+    21300044: NES-Megaman_22
+    21300046: NES-Megaman_23
+    21300048: NES-Megaman_24
+    21300050: NES-Megaman_25
+    21300052: NES-Megaman_26
+    21300054: NES-Megaman_27
+    21300056: NES-Megaman_28
+    21300058: NES-Megaman_29
+    21300060: NES-Megaman_30
+    21300062: NES-Megaman_31
+    21300064: NES-Megaman_32
+    21300066: NES-Megaman_33
+    21300068: NES-Megaman_34
+    21300070: NES-Megaman_35
+    21300072: NES-Megaman_36
+    21300074: NES-Megaman_37
+    21300076: NES-Megaman_38
+    21300078: NES-Megaman_39
+    21300080: NES-Megaman_40
+    21300082: NES-Megaman_41
+    21300084: NES-Megaman_42
+    21300086: NES-Megaman_43
+    21300088: NES-Megaman_44
+    21300090: NES-Megaman_45
+    21300092: NES-Megaman_46
+    21300094: NES-Megaman_47
+    21300096: NES-Megaman_48
+    21300098: NES-Megaman_49
+    21300100: NES-Megaman_50
+    21300102: NES-Megaman_51
+    21300104: NES-Megaman_52
+    21300106: NES-Megaman_53
+    21300108: NES-Megaman_54
+    21300110: NES-Megaman_55
+    21300112: NES-Megaman_56
+    21300114: NES-Megaman_57
+    21300116: NES-Megaman_58
+    21300118: NES-Megaman_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES-Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 226
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 210
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 210
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 210
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 210
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 210
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 210
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 175
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 175
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 175
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 175
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 135
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 135
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 140
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 135
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 134
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 133
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 100
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 61
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 61
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 61
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_46
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 61
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 59
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES-Megaman_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
